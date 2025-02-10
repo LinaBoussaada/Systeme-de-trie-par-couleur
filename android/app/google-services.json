@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "520964065320",
+    "firebase_url": "https://systeme-de-tri-par-couleur-default-rtdb.firebaseio.com",
+    "project_id": "systeme-de-tri-par-couleur",
+    "storage_bucket": "systeme-de-tri-par-couleur.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520964065320:android:c1871243c3596fa8ca8d1d",
+        "android_client_info": {
+          "package_name": "com.example.colorproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9skEHYcSPe9KZUuZwGMptmzhRWq8NIHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
